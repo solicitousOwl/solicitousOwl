@@ -1,19 +1,5 @@
-## Hi there 👋
-
-<!--
-**solicitousOwl/solicitousOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+Привет 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
@@ -29,4 +15,18 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg5NzRqNW5vNmU2eGtoZGlubXZqbm4yejhlbm9yOHVrMTd0bXo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="550" height="300"/>
 </div>
 
-### :man_technologist: О себе : Я начинающий Android разработчик. Мой путь в it начался с платформы skillbox, где я прошел курс Android разработчик. Во время прохождения курса я так же изучил материал из учебников: Kotlin в действии(Авторы Дмитрий Жемеров и Светлана Исакова), Java. Полное руководство (атор Герберт Шилдт). В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу.
+---
+
+### 
+:man_technologist: О себе : Я начинающий Android разработчик. Мой путь в it начался с платформы skillbox, где я прошел курс Android разработчик.
+Во время прохождения курса я так же изучил материал из учебников: Kotlin в действии(Авторы Дмитрий Жемеров и Светлана Исакова), Java. Полное руководство (атор Герберт Шилдт).
+В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу.
+
+- :brain: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: В свободное время я предаочитаю читать книги либо играть в компьютер
+
+- :mailbox: Контакты для связи: [![Telegram Badge](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/oleg_kur0306)
+
