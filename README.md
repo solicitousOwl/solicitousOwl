@@ -23,5 +23,10 @@ Here are some ideas to get you started:
   <a href="https://t.me/oleg_kur0306" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTg5NzRqNW5vNmU2eGtoZGlubXZqbm4yejhlbm9yOHVrMTd0bXo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="550" height="300"/>
+</div>
+
+### :man_technologist: О себе : Я начинающий Android разработчик. Мой путь в it начался с платформы skillbox, где я прошел курс Android разработчик. Во время прохождения курса я так же изучил материал из учебников: Kotlin в действии(Авторы Дмитрий Жемеров и Светлана Исакова), Java. Полное руководство (атор Герберт Шилдт). В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу.
