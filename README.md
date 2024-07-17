@@ -22,10 +22,6 @@
 Во время прохождения курса я так же изучил материал из учебников: Kotlin в действии(Авторы Дмитрий Жемеров и Светлана Исакова), Java. Полное руководство (атор Герберт Шилдт).
 В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу.
 
-- :brain: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: В свободное время я предаочитаю читать книги либо играть в компьютер
 
 - :mailbox: Контакты для связи: [![Telegram Badge](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/oleg_kur0306)
